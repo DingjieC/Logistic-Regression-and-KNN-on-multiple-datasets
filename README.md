@@ -39,3 +39,5 @@ python driver.py data/ trainingRedWineNorm.csv testingRedWineNorm.csv lr
 #Note :
 The data is preprocessed using the scripts provided in directory "preprocessing scripts". And this preprocessed data is used for the algorithm.
 The preprocessed data for all three datasets is present in "data" directory
+
+The detailed decription of datasets and task performed as well as the analysis results for different datasets using the two algorithms with different parameter settings is given in ProjectReportAML.pdf under the Report folder.
